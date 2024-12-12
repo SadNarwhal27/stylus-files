@@ -1,3 +1,14 @@
+/* ==UserStyle==
+@name           cmich.teamdynamix.com/
+@namespace      https://github.com/SadNarwhal27
+@version        0.3.0
+@description    A dark mode theme for CMU's TDX dashboard
+@author         Travis Schall
+@homepageURL 	https://github.com/SadNarwhal27/stylus-files
+@supportURL 	https://github.com/SadNarwhal27/stylus-files/issues
+@updateURL 		https://github.com/SadNarwhal27/stylus-files/cmich.teamdynamix.com.css
+==/UserStyle== */
+
 @-moz-document url-prefix("https://cmich.teamdynamix.com") {
 	html {
 		--bs-body-color: #dee2e6;
